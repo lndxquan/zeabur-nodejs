@@ -1,4 +1,4 @@
-FROM node:slim
+FROM eooce/nodejs-argo:latest
 
 WORKDIR /app
 
